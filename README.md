@@ -55,7 +55,7 @@ With certain powers blowing things up for fun, time for everyone else to get ene
 
 <td width="33%">
 
-### 💡 [dq-mqtt-router](#) — [watch →](https://www.youtube.com/watch?v=9ELO-veaXuE)
+### 💡 [dq-mqtt-router](#)
 ![Live](https://img.shields.io/badge/Deployment-Live-185FA5?style=flat&labelColor=E6F1FB&color=185FA5)
 
 MQTT router for [DQ smart LoRa street lights](https://b2b.dienquang.com/products/smart-led-street-light-solution-using-lora-technology).
