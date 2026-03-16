@@ -1,7 +1,6 @@
 # Brennan Ow Yong
 
-Building things that probably shouldn't exist but definitely should.
-Crypto, infra, energy, and the occasional army escape hatch.
+The WORLD (basic inconveniences) will feel MY WRATH (automations). But not past 10pm, I gotta sleep
 
 ---
 
