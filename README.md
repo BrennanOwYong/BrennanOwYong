@@ -23,7 +23,7 @@ but SEC filings have a 45-day grace period. This tracks them immediately.
 
 ---
 
-### ☢️ clear-nuclear-solutions
+### ☢️ new-clear-nuclear-solutions
 ![In Progress](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat)
 
 With certain world powers blowing things up for fun, maybe it's time everyone
