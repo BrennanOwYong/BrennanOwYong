@@ -1,7 +1,6 @@
 # Brennan Ow Yong
 
-Building things that probably shouldn't exist but definitely should.
-Crypto, infra, energy, and the occasional army escape hatch.
+Technology will solve all my minor inconveniences
 
 ---
 
