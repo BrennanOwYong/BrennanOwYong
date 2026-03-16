@@ -35,6 +35,7 @@ risk analysts and nuclear infrastructure modelling.
 ---
 
 ### 💡 [dq-mqtt-router](#)
+![Private](https://img.shields.io/badge/Repo-Private-8b5cf6?style=flat)
 
 An MQTT router linking to [DQ smart LoRa street lights](https://b2b.dienquang.com/products/smart-led-street-light-solution-using-lora-technology).
 The old workflow involved flying an engineer overseas to configure each deployment.
@@ -54,6 +55,7 @@ different kind of problem.
 ---
 
 ### 🧠 [memory-management-experiments](#)
+![Private](https://img.shields.io/badge/Repo-Private-8b5cf6?style=flat)
 
 Running GraphRAG, Neo4j, and vector DBs head-to-head and writing up honest takes.
 
