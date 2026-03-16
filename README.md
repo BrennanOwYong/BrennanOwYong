@@ -16,6 +16,7 @@ Now with **OpenClaw** integration to scout new exchanges worth farming on.
 ---
 
 ### 📈 copy-trader *(coming soon)*
+![In Progress](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat)
 
 I want to get rich. I don't want to put in effort. Why not copy the best crypto
 and politician traders in the world? Dub and Autopilot do something similar —
