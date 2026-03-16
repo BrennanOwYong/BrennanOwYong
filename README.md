@@ -88,11 +88,8 @@ So I build Claude Code config files to automate work in line with my node's SOP.
 
 GraphRAG, Neo4j, and vector DBs — head-to-head with honest takes.
 
-> **18 Dec 2024** — GraphRAG is recursive PCA in a trenchcoat. Pass.
+TL;DR-GraphRAG is recursive PCA in a trenchcoat. Neo4j better as table of contents than content storage. Just use Mem0. Or MD files per agent. That's what Claude Code does anyway.
 
-> **14 Jan 2025** — Neo4j better as table of contents than content storage.
-
-> **Verdict** — Just use Mem0. Or MD files per agent. That's what Claude Code does anyway.
 
 `GraphRAG` `Neo4j` `vector DB` `Mem0`
 
