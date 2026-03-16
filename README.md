@@ -48,7 +48,6 @@ Time to get energy-independent or 47 cruise missiles will come your way. Fork of
 
 ### 💡 [dq-mqtt-router](#)
 ![Live](https://img.shields.io/badge/Deployment-Live-185FA5?style=flat&labelColor=E6F1FB&color=185FA5)
-— [Watch it in action →](https://www.youtube.com/watch?v=9ELO-veaXuE)
 
 MQTT router for [DQ smart LoRa street lights](https://b2b.dienquang.com/products/smart-led-street-light-solution-using-lora-technology). Eliminated on-site deployments entirely.
 
@@ -63,7 +62,7 @@ MQTT router for [DQ smart LoRa street lights](https://b2b.dienquang.com/products
 ---
 
 ### 🪖 [i-hate-army-work](#)
-![Private](https://img.shields.io/badge/Repo-Private-534AB7?style=flat&labelColor=EEEDFE&color=534AB7)
+![Nice try CIA, its PRIVATE](https://img.shields.io/badge/Repo-Private-534AB7?style=flat&labelColor=EEEDFE&color=534AB7)
 
 So I build Claude Code config files to automate work in line with my node's SOP. Includes guides — because automation without understanding just creates a different kind of problem.
 
