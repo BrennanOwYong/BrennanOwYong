@@ -26,27 +26,33 @@ Crypto airdrop farmer that also provokes and reverse-engineers detection algorit
 
 <td width="33%">
 
-### 📈 copy-trader
-![Coming Soon](https://img.shields.io/badge/Repo-Coming_Soon-534AB7?style=flat&labelColor=EEEDFE&color=534AB7)
+### 🏭 [Software Factory](https://github.com/BrennanOwYong/software_factory_cc)
 
-Why research when you can copy? Tracks crypto whales and politician trades the moment they happen — not after the 45-day SEC grace period. Dub and Autopilot do this, but slower.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-1D9E75?style=flat)](https://brennanowyong.github.io/software_factory_cc/)
 
-| | SEC | This |
-|---|---|---|
-| Lag | 45 days | ~0 days |
+Turn product intent into tested software. A project-local Codex factory coordinates requirements, architecture, isolated builders, independent validation, and delivery through GitHub pull requests.
 
-`TypeScript` `SEC API` `on-chain`
+The portfolio walks through the architecture, design decisions, and how a request moves through the factory.
+
+**[Repository](https://github.com/BrennanOwYong/software_factory_cc) · [Portfolio](https://brennanowyong.github.io/software_factory_cc/)**
+
+`Codex` `automation` `software architecture`
 
 </td>
 
 <td width="33%">
 
-### ☢️ clear-nuclear-solutions
-![In Progress](https://img.shields.io/badge/Status-In_Progress-854F0B?style=flat&labelColor=FAEEDA&color=854F0B)
+### ☢️ [Nuclearer](https://github.com/BrennanOwYong/nuclearer)
 
-With certain powers blowing things up for fun, time for everyone else to get energy-independent. Fork of [worldmonitor](https://github.com/koala73/worldmonitor) with global risk analysts and nuclear infra modelling.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-854F0B?style=flat)](https://brennanowyong.github.io/nuclearer/)
 
-`risk analysis` `infra modelling` `global data`
+Spin the globe, pick a reactor, and explore candidate nuclear sites. Screens grid, cooling, permitting, and hazard constraints to surface potential deal-breakers early, with cited evidence and confidence levels.
+
+An interactive first look at site feasibility, with clear next steps for further study.
+
+**[Repository](https://github.com/BrennanOwYong/nuclearer) · [Portfolio](https://brennanowyong.github.io/nuclearer/)**
+
+`React` `TypeScript` `site intelligence`
 
 </td>
 
@@ -71,27 +77,33 @@ MQTT router for [DQ smart LoRa street lights](https://b2b.dienquang.com/products
 
 <td width="33%">
 
-### 🪖 [i-hate-army-work](#)
-![Private](https://img.shields.io/badge/Repo-Private-534AB7?style=flat&labelColor=EEEDFE&color=534AB7)
+### 🤖 [Robotics](https://github.com/BrennanOwYong/robotics_showcase)
 
-So I build Claude Code config files to automate work in line with my node's SOP. Includes guides — because automation without understanding just creates a different kind of problem.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-185FA5?style=flat)](https://brennanowyong.github.io/robotics_showcase/)
 
-> SOP-compliant · 0 brain cells used
+Two Robot Operating System 2 (ROS 2) projects: a swarm communication network, and robot status reporting with processor resource allocation.
 
-`Claude Code` `automation`
+Animated architecture and interactive walkthroughs show how robots register, exchange messages, and share status while protecting robot-control work.
+
+**[Repository](https://github.com/BrennanOwYong/robotics_showcase) · [Portfolio](https://brennanowyong.github.io/robotics_showcase/)**
+
+`ROS 2` `Python` `robotics`
 
 </td>
 
 <td width="33%">
 
-### 🧠 [memory-management-experiments](#)
+### 🫧 [Bubble Lab](https://github.com/BrennanOwYong/BubbleLab)
 
-GraphRAG, Neo4j, and vector DBs — head-to-head with honest takes.
+![Exploring](https://img.shields.io/badge/Status-Exploring-534AB7?style=flat&labelColor=EEEDFE&color=534AB7)
 
-TL;DR-GraphRAG is recursive PCA in a trenchcoat. Neo4j better as table of contents than content storage. Just use Mem0. Or MD files per agent. That's what Claude Code does anyway.
+I'm experimenting with Bubble Lab to turn natural language processing (NLP) into idempotent workflows (safe to retry without duplicating effects).
 
+The aim: run predictable steps as code and call agents only when reasoning is needed. Fewer model calls, lower token costs, and more reliable execution.
 
-`GraphRAG` `Neo4j` `vector DB` `Mem0`
+**[Repository](https://github.com/BrennanOwYong/BubbleLab)**
+
+`TypeScript` `NLP` `workflow automation`
 
 </td>
 
