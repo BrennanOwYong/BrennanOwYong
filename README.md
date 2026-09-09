@@ -60,18 +60,17 @@ An interactive first look at site feasibility, with clear next steps for further
 
 <td width="33%">
 
-### 💡 [dq-mqtt-router](#)
-![Live](https://img.shields.io/badge/Deployment-Live-185FA5?style=flat&labelColor=E6F1FB&color=185FA5)
+### 💡 [Dien Quang × beez-FM](https://github.com/BrennanOwYong/dq-mqtt-router-architecture)
 
-MQTT router for [DQ smart LoRa street lights](https://b2b.dienquang.com/products/smart-led-street-light-solution-using-lora-technology).
+![Proprietary implementation](https://img.shields.io/badge/Source-Proprietary-534AB7?style=flat)
 
-| | Before | After |
-|---|---|---|
-| How | ✈️ fly engineer out | 📧 email manifest |
-| Time | Days | 20 min |
-| Cost | $$$$ | **$0** |
+Dien Quang is an established lighting provider in Vietnam. I built a Message Queuing Telemetry Transport (MQTT) router to connect its smart lights to beez-FM's building control server through an application programming interface (API), taking control beyond the wall switch.
 
-`MQTT` `LoRa` `IoT`
+A LangChain agent reads building floor plans to configure lighting connections. The aim: near-instant, safe onboarding and lower customer acquisition cost (CAC), with a dedicated regional server per client and local system backups for continuity.
+
+**[Architecture & diagrams](https://github.com/BrennanOwYong/dq-mqtt-router-architecture)** · Implementation source is proprietary.
+
+`MQTT` `LangChain` `building automation`
 
 </td>
 
