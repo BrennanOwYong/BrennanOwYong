@@ -96,7 +96,7 @@ Animated architecture and interactive walkthroughs show how robots register, exc
 
 ![Exploring](https://img.shields.io/badge/Status-Exploring-534AB7?style=flat&labelColor=EEEDFE&color=534AB7)
 
-I'm experimenting with Bubble Lab to turn natural language processing (NLP) into idempotent workflows (safe to retry without duplicating effects).
+I'm experimenting with Bubble Lab to turn natural language processing (NLP) into idempotent workflows (safe to retry without duplicating effects). Added AST-based tool detection over regex for more reliable entity and workflow parsing during visualisation and in-chat UI for highly sensitive actionstriggered by agent but sandboxed away from agent. Agent calls tool to let you do something highly sensitive but never seens anything about it in rest or in-transit. Convenience and security together, not a tradeoff. 
 
 The aim: run predictable steps as code and call agents only when reasoning is needed. Fewer model calls, lower token costs, and more reliable execution.
 
